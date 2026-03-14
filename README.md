@@ -4,7 +4,7 @@
 # DOOM Modernized 🎮
 
 > "Projects tend to rot if you leave them alone for a few years, and it takes effort for someone to deal with it again."
-> - John Carmack
+> — John Carmack
 
 This project takes Carmack's words to heart - bringing 1993 code back to life on modern hardware.
 
